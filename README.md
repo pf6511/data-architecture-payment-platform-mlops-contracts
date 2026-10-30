@@ -1,4 +1,4 @@
-# Stripe MLOps
+# Payment platform MLOps
 
 Projet **MLOps** d'une plateforme fintech de type Stripe.
 
@@ -172,3 +172,9 @@ Feature Store offline
         ├──► Prediction
         ├──► Monitoring
         └──► Compliance
+
+
+---
+© 2026 [pf6511]. Tous droits réservés.
+Ce dépôt est publié à titre de portfolio. Toute reproduction ou réutilisation,
+totale ou partielle, est interdite sans autorisation écrite de l'auteur.
